@@ -1,3 +1,5 @@
+[![Tests with Yaci DevKit](https://github.com/bloxbean/devkit-npm-ci-test/actions/workflows/build.yml/badge.svg)](https://github.com/bloxbean/devkit-npm-ci-test/actions/workflows/build.yml)
+
 # Yaci DevKit GitHub Actions CI Test using NPM distribution
 
 A sample project that demonstrates how to use [Yaci DevKit](https://github.com/bloxbean/yaci-devkit) in a GitHub Actions CI test.  
