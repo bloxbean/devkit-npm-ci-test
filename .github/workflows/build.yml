@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20.8.0'
-          cache: 'npm'
 
       - name: Install Yaci DevKit
         run: npm install -g @bloxbean/yaci-devkit
