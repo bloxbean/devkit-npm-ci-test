@@ -39,7 +39,7 @@ The following configuration starts Yaci DevKit in Yaci Store mode, providing a B
 
 ### Test Code
 
-In the `test` package, you can find the `TestHelper` class, which provides various utility methods such as `resetDevNet` and `topUpFund`.  
+In the [test](https://github.com/satran004/devkit-npm-ci-test/tree/main/src/test/java/com/bloxbean/example) package, you can find the `TestHelper` class, which provides various utility methods such as `resetDevNet` and `topUpFund`.  
 These methods can be used to reset the network between tests or top up funds to any address.
 
 For **non-Java** projects, you can implement similar methods to invoke Yaci DevKit's admin endpoints for various operations.  
